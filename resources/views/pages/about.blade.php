@@ -112,11 +112,22 @@
 					<div class="margin-bottom-30"></div>
 				</div>
 				<div class="col-sm-7 col-md-7">
-					<h3 class="director-title">Peter White</h3>
-					<div class="director-position">HEAD OF OPERATIONS</div>
+					<h3 class="director-title">Abdullahi Umar</h3>
+					<div class="director-position">COMPANY DIRECTOR</div>
 					<div class="margin-bottom-30"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>Our Vision and Legacy
+                        Since our inception we have had a history of moving with
+                        industry - and our clients. Today we are a company with
+                        enduring oil and gas pedigree, our operations and maintenance
+                        stronghold and a vision to become an international fully
+                        integrated service provider.
+                        2016
+                        Providing continuing Operations and Maintenance support to Australia Pacific LNG (APLNG) since 2014
+                        Upstream PS is a wholly owned subsidiary of
+                        GR Engineering Services Limited, an engineering,
+                        consulting and contracting company specialising
+                        in fixed price engineering design and construction
+                        services (o the resources industry.</p>
 					<p>&nbsp;</p>
 
 					<blockquote>
