@@ -131,7 +131,11 @@
 					<p>&nbsp;</p>
 
 					<blockquote>
-						<p>Petro Industrial Template continues to grow ever day thanks to the confidence our clients have in us. We cover many industries such as oil gas, energy, business services, consumer products.</p>
+						<p>We believe in approaching safety proactively from every
+                            angle to create a culture of zero harm. 360 DEGREES
+                            focuses our people on the prevention of incidents, safety, health and well-being of all employees, contractors, clients and
+                            stakeholders. We develop relationships with respect for
+                            the culture, diversity and values of others.</p>
 					</blockquote>
 				</div>
 
