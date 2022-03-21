@@ -147,15 +147,15 @@
 							<li class="@if($title == 'About') active @endif">
 							  <a href="{{config('app.url')}}/about">ABOUT US </a>
 							</li>
-							<li class="dropdown">
+							{{-- <li class="dropdown">
 							  <a href="{{config('app.url')}}/#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-haspopup="true" aria-expanded="false">SERVICES <span class="caret"></span></a>
 							  <ul class="dropdown-menu">
 								<li><a href="{{config('app.url')}}/services.html">SERVICES 1</a></li>
 								<li><a href="{{config('app.url')}}/services-2.html">SERVICES 2</a></li>
 								<li><a href="{{config('app.url')}}/services-detail.html">SERVICES DETAIL</a></li>
 							  </ul>
-							</li>
-							<li class="dropdown">
+							</li> --}}
+							{{-- <li class="dropdown">
 							  <a href="{{config('app.url')}}/#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PAGES <span class="caret"></span></a>
 							  <ul class="dropdown-menu">
 								<li><a href="{{config('app.url')}}/faq.html">FAQ</a></li>
@@ -163,23 +163,23 @@
 								<li><a href="{{config('app.url')}}/404page.html">404 PAGE</a></li>
 								<li><a href="{{config('app.url')}}/career.html">CAREER</a></li>
 							  </ul>
-							</li>
-							<li class="dropdown">
+							</li> --}}
+							{{-- <li class="dropdown">
 							  <a href="{{config('app.url')}}/#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PROJECTS <span class="caret"></span></a>
 							  <ul class="dropdown-menu">
 								<li><a href="{{config('app.url')}}/project-grid.html">GRID LAYOUT</a></li>
 								<li><a href="{{config('app.url')}}/project-grid-2.html">GRID LAYOUT WITH LIGHTBOX</a></li>
 								<li><a href="{{config('app.url')}}/project-detail.html">SINGLE PROJECT</a></li>
 							  </ul>
-							</li>
-							<li class="dropdown">
+							</li> --}}
+							{{-- <li class="dropdown">
 							  <a href="{{config('app.url')}}/#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-haspopup="true" aria-expanded="false">NEWS <span class="caret"></span></a>
 							  <ul class="dropdown-menu">
 								<li><a href="{{config('app.url')}}/news-grid.html">GRID BAR</a></li>
 								<li><a href="{{config('app.url')}}/news-sidebar.html">SIDEBAR</a></li>
 								<li><a href="{{config('app.url')}}/news-detail.html">SINGLE NEWS</a></li>
 							  </ul>
-							</li>
+							</li> --}}
 							<li class="@if($title == 'Contact') active @endif">
 							  <a href="{{config('app.url')}}/contact" >CONTACT</a>
 
