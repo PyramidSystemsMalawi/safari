@@ -34,18 +34,20 @@
                             <div class="info-icon">
                                 <span class="fa fa-map-marker"></span>
                             </div>
-                            <div class="info-text">99 S.t Jomblo Park Pekanbaru 28292. Indonesia</div> </li>
+                            <div class="info-text">Safari Petroleum Products Limited
+                                38 du Industrial Area A, Abuja.
+                                Federal Capital Territory Nigeria</div> </li>
                         <li>
                             <div class="info-icon">
                                 <span class="fa fa-phone"></span>
                             </div>
-                            <div class="info-text">(0761) 654-123987</div>
+                            <div class="info-text">Unavailable at the moment</div>
                         </li>
                         <li>
                             <div class="info-icon">
                                 <span class="fa fa-envelope"></span>
                             </div>
-                            <div class="info-text">info@yoursite.com</div>
+                            <div class="info-text">info@petroleumsafari.com</div>
                         </li>
                         <li>
                             <div class="info-icon">
