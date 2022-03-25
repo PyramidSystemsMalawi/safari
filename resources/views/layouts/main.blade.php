@@ -100,7 +100,7 @@
 						</div>
 						<div class="body-content">
 							<div class="heading">Email Support</div>
-							info@petroleumsafari.com
+							petroleumsafari@gmail.com
 						</div>
 					</div>
 					<!-- INFO 2 -->
@@ -248,7 +248,7 @@
 						<div class="icon"><i class="fa fa-envelope"></i></div>
 						<div class="body-content">
 							<div class="heading">SEND US A MESSAGE</div>
-							General: info@petroleumsafari.com<br>
+							General: petroleumsafari@gmail.com<br>
 							Sales: sales@petroleumsafari.com
 						</div>
 					</div>

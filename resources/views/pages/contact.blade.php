@@ -23,7 +23,7 @@
         <div class="row">
             <div class="col-sm-4 col-md-4 col-md-push-8">
                 <div class="widget download">
-                    <a href="#" class="btn btn-secondary btn-block btn-sidebar"><span class="fa  fa-file-pdf-o"></span> Company Brochure</a>
+                    <a target="new" href="{{config('app.url')}}/safariPPL.pdf" class="btn btn-secondary btn-block btn-sidebar"><span class="fa  fa-file-pdf-o"></span> Company Brochure</a>
                 </div>
                 <div class="widget contact-info-sidebar">
                     <div class="widget-title">
@@ -47,7 +47,7 @@
                             <div class="info-icon">
                                 <span class="fa fa-envelope"></span>
                             </div>
-                            <div class="info-text">info@petroleumsafari.com</div>
+                            <div class="info-text">petroleumsafari@gmail.com</div>
                         </li>
                         <li>
                             <div class="info-icon">
