@@ -110,7 +110,7 @@
 						</div>
 						<div class="body-content">
 							<div class="heading">Call Support</div>
-							+62 123 6700 411
+							08 039683 201
 						</div>
 					</div>
 					<!-- INFO 3 -->
@@ -225,8 +225,8 @@
 						<div class="icon"><i class="fa fa-phone"></i></div>
 						<div class="body-content">
 							<div class="heading">CALL US NOW</div>
-							Office Telephone: +62 800 9000 123 <br>
-							Mobile: +62 800 9000 123
+							Office Telephone: 08 039 683 201 <br>
+							Mobile: 08 039 139 168
 						</div>
 					</div>
 				</div>

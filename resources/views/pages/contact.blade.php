@@ -41,7 +41,7 @@
                             <div class="info-icon">
                                 <span class="fa fa-phone"></span>
                             </div>
-                            <div class="info-text">Unavailable at the moment</div>
+                            <div class="info-text">08 039 683 201</div>
                         </li>
                         <li>
                             <div class="info-icon">
