@@ -7,7 +7,7 @@
     <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Safari |  {{$title}}</title>
-    <meta name="description" content="Petro - Industrial HTML Template. It is built using bootstrap 3.3.2 framework, works totally responsive, easy to customise, well commented codes and seo friendly.">
+    <meta name="description" content="Petroleum Safari, a leading entity in petroleum products and gas. Our vision is to become a one stop shop for your energy needs.">
     <meta name="keywords" content="petro, industrial, oil and gas, company, manufacturing, mechanical, power and energy, engineering">
     <meta name="author" content="rudhisasmito.com">
 
